@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 	
-	private String urlAPI = "http://140.134.26.17/dbtest/pcr_db_helper.php"; 
+	private String urlAPI = "Put your php url here! Like 'localhost/dbtest/db_helper.php for example!"; 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
